@@ -4,6 +4,3 @@ Network Accuracy
 
 Network Loss
 ![alt text](./loss.svg)
-
-Network Structure
-![alt text](./png.png)
